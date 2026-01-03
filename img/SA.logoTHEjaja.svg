@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 295.97 301.07">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49 {
+        isolation: isolate;
+      }
+
+      .st50 {
+        display: none;
+        fill: none;
+        stroke-width: .7px;
+      }
+
+      .st50, .st51 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .st51 {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .st1 {
+        font-size: 4px;
+      }
+
+      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .st2 {
+        font-size: 4px;
+      }
+
+      .st3 {
+        font-size: 4px;
+      }
+
+      .st4 {
+        font-size: 4px;
+      }
+
+      .st5 {
+        font-size: 4px;
+      }
+
+      .st6 {
+        font-size: 4px;
+      }
+
+      .st7 {
+        font-size: 4px;
+      }
+
+      .st8 {
+        font-size: 4px;
+      }
+
+      .st9 {
+        font-size: 4px;
+      }
+
+      .st10 {
+        font-size: 4px;
+      }
+
+      .st11 {
+        font-size: 4px;
+      }
+
+      .st12 {
+        font-size: 4px;
+      }
+
+      .st13 {
+        font-size: 4px;
+      }
+
+      .st14 {
+        font-size: 4px;
+      }
+
+      .st15 {
+        font-size: 4px;
+      }
+
+      .st16 {
+        font-size: 4px;
+      }
+
+      .st17 {
+        font-size: 4px;
+      }
+
+      .st18 {
+        font-size: 4px;
+      }
+
+      .st19 {
+        font-size: 4px;
+      }
+
+      .st20 {
+        font-size: 4px;
+      }
+
+      .st21 {
+        font-size: 4px;
+      }
+
+      .st22 {
+        font-size: 4px;
+      }
+
+      .st23 {
+        font-size: 4px;
+      }
+
+      .st24 {
+        font-size: 4px;
+      }
+
+      .st25 {
+        font-size: 4px;
+      }
+
+      .st26 {
+        font-size: 4px;
+      }
+
+      .st27 {
+        font-size: 4px;
+      }
+
+      .st28 {
+        font-size: 4px;
+      }
+
+      .st29 {
+        font-size: 4px;
+      }
+
+      .st30 {
+        font-size: 4px;
+      }
+
+      .st31 {
+        font-size: 4px;
+      }
+
+      .st32 {
+        font-size: 4px;
+      }
+
+      .st33 {
+        font-size: 4px;
+      }
+
+      .st34 {
+        font-size: 4px;
+      }
+
+      .st35 {
+        font-size: 4px;
+      }
+
+      .st36 {
+        font-size: 4px;
+      }
+
+      .st37 {
+        font-size: 4px;
+      }
+
+      .st38 {
+        font-size: 4px;
+      }
+
+      .st39 {
+        font-size: 4px;
+      }
+
+      .st40 {
+        font-size: 4px;
+      }
+
+      .st41 {
+        font-size: 4px;
+      }
+
+      .st42 {
+        font-size: 4px;
+      }
+
+      .st43 {
+        font-size: 4px;
+      }
+
+      .st44 {
+        font-size: 4px;
+      }
+
+      .st45 {
+        font-size: 4px;
+      }
+
+      .st46 {
+        font-size: 4px;
+      }
+
+      .st47 {
+        font-size: 4px;
+      }
+
+      .st48 {
+        font-size: 4px;
+      }
+
+      .st49 {
+        font-size: 4px;
+      }
+    </style>
+  </defs>
+  <path class="st51" d="M289.8,148.18c0,78.28-63.46,141.73-141.73,141.73S6.34,226.45,6.34,148.18,69.8,6.45,148.07,6.45c62.91,0,114.65,44.79,133.39,93.7,9.04,23.61,8.35,43.26,8.35,48.03h-.01Z"/>
+  <line class="st50" x1="178.85" y1="118.08" x2="220.71" y2="118.08"/>
+  <path class="st51" d="M159.4,289.92L190.75,14.13h-.04l49.43,169.82c1.31,4.47,3.69,8.55,6.92,11.9h0c4.4,4.57,10.13,7.64,16.38,8.77h0s.06,0,.09.02c.57.1,1.17.16,1.8.19,5.74.28,11.19-2.53,14.63-7.12l2.42-3.7"/>
+  <g class="st0">
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(289.03 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(286.93 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(284.14 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(282.22 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(279.77 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(278.02 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(277.15 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(274.35 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(272.26 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(269.64 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(267.54 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(265.79 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(264.92 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(261.25 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(259.15 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(256.36 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(254.44 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(251.99 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(250.25 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(249.37 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(246.58 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(244.48 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(241.86 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(239.77 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(238.02 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(237.14 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(233.47 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(231.38 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(228.58 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(226.66 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(224.22 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(222.47 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(221.6 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(218.8 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(216.7 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(214.09 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(211.99 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(210.24 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(209.37 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(205.7 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(203.6 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(200.81 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(198.89 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(196.44 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(194.69 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(193.82 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(191.02 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(188.93 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(186.31 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(184.21 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(182.46 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(181.59 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(177.92 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(175.83 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(173.03 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(171.11 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(168.66 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(166.92 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(166.04 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(163.25 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(161.15 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(158.53 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(156.44 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(154.69 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(153.81 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(149.27 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(147.18 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(144.38 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(142.46 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(140.01 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(138.27 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(137.39 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(134.6 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(132.5 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(129.88 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(127.79 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(126.04 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(125.16 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(120.62 125.31) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(118.52 125.31) rotate(-179.78) scale(1.05 1) skewX(-.02)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(115.73 125.3) rotate(179.98) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(113.81 125.3) rotate(179.2) scale(1.05 1) skewX(.08)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(111.36 125.33) rotate(177.92) scale(1.05 1) skewX(.19)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(109.62 125.4) rotate(176.86) scale(1.05 1) skewX(.29)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(108.74 125.44) rotate(175.52) scale(1.05 1) skewX(.42)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st30" transform="translate(105.96 125.68) rotate(172.26) scale(1.05 1) skewX(.72)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st33" transform="translate(103.88 125.95) rotate(169.28) scale(1.04 1) skewX(.98)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st38" transform="translate(101.31 126.45) rotate(166.26) scale(1.04 1) skewX(1.24)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st44" transform="translate(99.29 126.95) rotate(163.87) scale(1.04 1) skewX(1.43)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st45" transform="translate(97.61 127.44) rotate(162.33) scale(1.04 1) skewX(1.55)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st48" transform="translate(96.78 127.69) rotate(160.77) scale(1.04 1) skewX(1.67)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st23" transform="translate(92.55 129.28) rotate(156.32) scale(1.03 1) skewX(1.97)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st1" transform="translate(90.65 130.11) rotate(152.27) scale(1.03 1) skewX(2.21)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st7" transform="translate(88.15 131.33) rotate(145.71) scale(1.02 1) skewX(2.49)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st16" transform="translate(86.6 132.42) rotate(134.06) skewX(2.68)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st8" transform="translate(84.95 134.14) rotate(128.51) skewX(2.61)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st9" transform="translate(83.9 135.48) rotate(124.88) scale(.98 1) skewX(2.51)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st11" transform="translate(83.4 136.16) rotate(120.84) scale(.98 1) skewX(2.36)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st49" transform="translate(82.07 138.51) rotate(111.9) scale(.97 1) skewX(1.85)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st37" transform="translate(81.3 140.37) rotate(103.83) scale(.96 1) skewX(1.24)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(80.71 142.81) rotate(94.96) scale(.95 1) skewX(.46)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(80.55 144.81) rotate(87.13) scale(.95 1) skewX(-.27)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st29" transform="translate(80.66 146.47) rotate(81.5) scale(.96 1) skewX(-.78)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st39" transform="translate(80.75 147.31) rotate(75.32) scale(.96 1) skewX(-1.31)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st14" transform="translate(82.28 151.38) rotate(54.67) scale(.98 1) skewX(-2.53)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st15" transform="translate(83.46 153.03) rotate(46.37) skewX(-2.67)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st12" transform="translate(85.4 154.95) rotate(36.11) skewX(-2.55)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st21" transform="translate(86.91 156.1) rotate(26.54) scale(1.03 1) skewX(-2.14)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st47" transform="translate(89.1 157.16) rotate(19.13) scale(1.04 1) skewX(-1.66)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st43" transform="translate(90.74 157.71) rotate(15.67) scale(1.04 1) skewX(-1.39)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st35" transform="translate(91.58 157.96) rotate(12.69) scale(1.04 1) skewX(-1.15)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st27" transform="translate(94.31 158.53) rotate(8.17) scale(1.05 1) skewX(-.75)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st31" transform="translate(96.38 158.83) rotate(5.56) scale(1.05 1) skewX(-.52)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(98.99 159.08) rotate(3.6) scale(1.05 1) skewX(-.34)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(101.08 159.21) rotate(2.36) scale(1.05 1) skewX(-.22)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(102.83 159.28) rotate(1.66) scale(1.05 1) skewX(-.15)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(103.7 159.31) rotate(1.01) scale(1.05 1) skewX(-.09)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(109.12 159.34) rotate(-.67) scale(1.05 1) skewX(.06)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(111.21 159.32) rotate(-1.02) scale(1.05 1) skewX(.09)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(114.01 159.27) rotate(-1.3) scale(1.05 1) skewX(.12)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(115.93 159.22) rotate(-1.37) scale(1.05 1) skewX(.13)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(118.37 159.16) rotate(-1.32) scale(1.05 1) skewX(.12)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(120.12 159.12) rotate(-1.23) scale(1.05 1) skewX(.12)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(120.99 159.1) rotate(-1.09) scale(1.05 1) skewX(.1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(123.79 159.05) rotate(-.61) scale(1.05 1) skewX(.06)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(125.88 159.03) rotate(-.03) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(128.5 159.03) rotate(.75) scale(1.05 1) skewX(-.07)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(130.6 159.06) rotate(1.55) scale(1.05 1) skewX(-.15)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(132.35 159.1) rotate(2.21) scale(1.05 1) skewX(-.21)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(133.22 159.14) rotate(3.01) scale(1.05 1) skewX(-.28)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st26" transform="translate(137.75 159.44) rotate(6.72) scale(1.05 1) skewX(-.62)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st32" transform="translate(139.83 159.69) rotate(9.02) scale(1.05 1) skewX(-.83)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st40" transform="translate(142.58 160.15) rotate(13.34) scale(1.04 1) skewX(-1.2)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st46" transform="translate(144.45 160.58) rotate(18.03) scale(1.04 1) skewX(-1.58)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st22" transform="translate(146.77 161.35) rotate(24.17) scale(1.03 1) skewX(-2)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st10" transform="translate(148.34 162.07) rotate(29.12) scale(1.02 1) skewX(-2.28)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st4" transform="translate(149.1 162.49) rotate(33.21) scale(1.02 1) skewX(-2.45)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st3" transform="translate(151.39 164.02) rotate(39.39) skewX(-2.63)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st16" transform="translate(153 165.33) rotate(45.7) skewX(-2.68)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st13" transform="translate(154.77 167.16) rotate(53.34) scale(.98 1) skewX(-2.56)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st19" transform="translate(155.98 168.79) rotate(60.81) scale(.97 1) skewX(-2.28)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st17" transform="translate(156.78 170.28) rotate(66.55) scale(.97 1) skewX(-1.96)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st42" transform="translate(157.14 171.04) rotate(73.22) scale(.96 1) skewX(-1.48)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(157.9 174.46) rotate(92.98) scale(.95 1) skewX(.28)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st36" transform="translate(157.78 176.47) rotate(103.63) scale(.96 1) skewX(1.23)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st20" transform="translate(157.05 179.04) rotate(117.31) scale(.97 1) skewX(2.18)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st6" transform="translate(156.21 180.7) rotate(126.73) scale(.98 1) skewX(2.57)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st16" transform="translate(154.77 182.58) rotate(134.76) skewX(2.68)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st5" transform="translate(153.56 183.78) rotate(139.34) skewX(2.65)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st12" transform="translate(152.92 184.36) rotate(143.9) skewX(2.55)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st2" transform="translate(150.66 185.93) rotate(152.45) scale(1.03 1) skewX(2.2)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st18" transform="translate(148.83 186.9) rotate(158.79) scale(1.03 1) skewX(1.81)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st41" transform="translate(146.39 187.83) rotate(164.7) scale(1.04 1) skewX(1.36)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st34" transform="translate(144.38 188.37) rotate(169.27) scale(1.04 1) skewX(.98)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st28" transform="translate(142.66 188.69) rotate(172.28) scale(1.05 1) skewX(.71)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st25" transform="translate(141.8 188.82) rotate(175.4) scale(1.05 1) skewX(.43)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(138.13 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(136.03 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(133.24 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(131.32 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(128.87 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(127.13 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(126.25 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(123.46 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(121.36 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(118.74 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(116.65 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(114.9 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(114.02 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(109.48 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(107.38 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(104.59 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(102.67 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(100.22 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(98.48 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(97.6 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(94.81 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(92.71 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(90.09 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(88 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(86.25 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(85.37 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(81.7 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(79.61 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(76.81 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(74.89 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(72.45 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(70.7 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(69.83 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(67.03 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(64.93 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(62.32 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(60.22 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(58.47 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(57.6 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(53.93 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(51.83 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(49.04 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(47.12 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(44.67 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(42.92 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(42.05 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(39.25 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(37.16 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(34.54 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(32.44 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">L</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(30.69 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(29.82 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(26.15 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(24.06 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">Y</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(21.26 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">S</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(19.34 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(16.89 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">F</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(15.15 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st0">
+      <g class="st0">
+        <g class="st0">
+          <text class="st24" transform="translate(14.27 188.95) rotate(-180) scale(1.05 1)"><tspan x="0" y="0">E</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
