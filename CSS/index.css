@@ -1,0 +1,394 @@
+.Menu {
+  position: absolute;
+  inset: 0 0 auto 0;
+  z-index: 60;
+  background: transparent;
+}
+
+.nav_links {
+  display: none;
+}
+
+.burger {
+  position: fixed;
+  top: 18px;
+  right: 18px;
+  z-index: 120;
+  width: 46px;
+  height: 46px;
+  display: grid;
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.14);
+  color: #fff;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+}
+
+.burger_menu {
+  display: none;
+  position: fixed;
+  top: 74px;
+  right: 18px;
+  z-index: 130;
+  width: min(86vw, 360px);
+  margin: 0;
+  padding: 12px;
+  list-style: none;
+  background: rgba(255, 255, 255, 0.96);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+}
+
+.nav.is_open .burger_menu {
+  display: block;
+}
+
+.burger_menu li a {
+  display: block;
+  padding: 12px 12px;
+  border-radius: 12px;
+  font-weight: 500;
+}
+
+.burger_menu li a:hover {
+  text-decoration: none;
+  background: rgba(210, 106, 58, 0.12);
+}
+
+.menu_backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 110;
+  background: rgba(0, 0, 0, 0.18);
+}
+
+.nav.is_open + .menu_backdrop {
+  display: block;
+}
+
+.Hoved_text {
+  position: relative;
+  width: 100vw;
+  height: min(82vh, 760px);
+  min-height: 620px;
+  overflow: hidden;
+  background: #000;
+}
+
+.hero_img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  display: block;
+}
+
+.Hoved_text::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.62),
+    rgba(0, 0, 0, 0.2) 58%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  pointer-events: none;
+}
+
+.hero_content {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 70px 16px 22px;
+  gap: 10px;
+  color: #fff;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+}
+
+.hero_logo {
+  width: min(24vw, 420px);
+  max-height: 38vh;
+  margin: 0 0 4px;
+  filter: brightness(0) invert(1);
+  opacity: 0.95;
+}
+
+.hero_content h1 {
+  margin: 0;
+  font-size: clamp(2rem, 3.6vw, 3.3rem);
+  letter-spacing: 0.08em;
+}
+
+.hero_content p {
+  margin: 0;
+  font-size: clamp(0.98rem, 1.4vw, 1.15rem);
+  opacity: 0.96;
+}
+
+.cta {
+  margin-top: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.62rem 1.05rem;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.16);
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+  font-size: 0.95rem;
+}
+
+.scroll_wrap {
+  margin-top: auto;
+  padding-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.scroll_hint {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #fff;
+  opacity: 0.9;
+}
+
+.scroll_pil {
+  margin: 0;
+  font-size: 1.15rem;
+  color: #fff;
+  opacity: 0.9;
+}
+
+.Om_mig_Section,
+.Theme_Section,
+.Footer {
+  width: min(100% - 2rem, var(--container));
+  margin-inline: auto;
+}
+
+.Om_mig_Section {
+  padding: var(--s6) 0 var(--s5);
+}
+
+.Om_mig_Section h2 {
+  margin: 0 0 var(--s4);
+}
+
+.SofieAmalie_text {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-soft);
+  padding: var(--s4);
+}
+
+.SofieAmalie_text p {
+  color: var(--muted);
+  font-size: var(--small);
+}
+
+.SofieAmalie_img {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-soft);
+  overflow: hidden;
+}
+
+.SofieAmalie_img img {
+  width: 100%;
+  aspect-ratio: 3 / 3;
+  object-fit: cover;
+}
+.Om_mig_Section .SofieAmalie_text,
+.Om_mig_Section .SofieAmalie_img {
+  transition: transform 0.25s ease, box-shadow 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.Om_mig_Section .SofieAmalie_text:hover,
+.Om_mig_Section .SofieAmalie_img:hover,
+.Om_mig_Section .SofieAmalie_text:focus-within,
+.Om_mig_Section .SofieAmalie_img:focus-within {
+  transform: translateY(-6px);
+  border-color: rgba(210, 106, 58, 0.6);
+  box-shadow: 0 14px 30px rgba(20, 10, 14, 0.18),
+    0 0 0 1px rgba(210, 106, 58, 0.25);
+}
+
+.Theme_Section {
+  padding: var(--s5) 0 var(--s6);
+}
+
+.Theme_Section h2 {
+  margin: 0 0 var(--s4);
+}
+
+.Theme_Section .grid_1-1 {
+  align-items: stretch;
+}
+
+.Theme_Section .card {
+  position: relative;
+  min-height: 230px;
+  border-radius: 12px;
+  border: 1px solid rgba(91, 40, 54, 0.26);
+  box-shadow: var(--shadow-soft);
+  background: #fff;
+  overflow: hidden;
+}
+
+.Theme_Section .card_img {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.Theme_Section .card_img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.22;
+  filter: saturate(0.9) contrast(0.95);
+}
+
+.Theme_Section .card_content {
+  position: relative;
+  z-index: 1;
+  padding: 18px 18px 16px;
+  max-width: 48ch;
+}
+
+.Theme_Section .card_content p {
+  color: var(--muted);
+  font-size: var(--small);
+  font-weight: 500;
+}
+.Theme_Section .card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.Theme_Section .card:hover {
+  transform: translateY(-6px);
+  border-color: rgba(210, 106, 58, 0.6);
+  box-shadow: 0 14px 30px rgba(20, 10, 14, 0.18),
+    0 0 0 1px rgba(210, 106, 58, 0.25);
+}
+.Theme_Section .card:hover .card_img img {
+  opacity: 0.3;
+}
+
+@media (max-width: 768px) {
+  .Hoved_text {
+    height: 78vh;
+    min-height: 560px;
+  }
+
+  .hero_img {
+    object-position: center 22%;
+  }
+
+  .hero_content {
+    padding: 74px 12px 18px;
+    gap: 9px;
+  }
+
+  .hero_logo {
+    width: min(72vw, 260px);
+    max-height: 34vh;
+  }
+
+  .hero_content h1 {
+    font-size: clamp(1.55rem, 6vw, 2.15rem);
+    letter-spacing: 0.06em;
+  }
+
+  .hero_content p {
+    font-size: 0.92rem;
+  }
+
+  .cta {
+    padding: 0.58rem 1rem;
+    font-size: 0.92rem;
+  }
+}
+
+.scroll_wrap {
+  gap: 4px;
+}
+
+.scroll_hint {
+  font-size: 0.85rem;
+}
+
+.scroll_pil {
+  font-size: 1.2rem;
+}
+
+/*jeg prøver lige at lege med en popup modal::::))))*/
+.image_modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+  display: none;
+  place-items: center;
+  z-index: 1000;
+  padding: 24px;
+}
+
+.image_modal.is_open {
+  display: grid;
+}
+
+.image_modal_content {
+  position: relative;
+  max-width: min(80vw, 380px);
+  text-align: center;
+}
+
+.image_modal_content img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.image_modal_caption {
+  margin-top: 12px;
+  color: #fff;
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+.image_modal_close {
+  position: absolute;
+  top: -14px;
+  right: -14px;
+  width: 36px;
+  height: 36px;
+  border-radius: 999px;
+  border: none;
+  background: #fff;
+  font-size: 20px;
+  cursor: pointer;
+}
+.SofieAmalie_img {
+  cursor: pointer;
+}
