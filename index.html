@@ -5,21 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sofie Amalie | Portfolio – Multimediedesign</title>
 
-    <link rel="stylesheet" href="../css/generel.css" />
-    <link rel="stylesheet" href="../css/index.css" />
+    <link rel="stylesheet" href="CSS/generel.css" />
+    <link rel="stylesheet" href="CSS/index.css" />
+    
+
 
   </head>
 
   <body>
     <header class="Menu" id="top">
       <nav class="nav" aria-label="Hovednavigation">
-        <a class="brand" href="index.html" aria-label="Gå til forsiden">
-          <img
-            src="../img/SA.logoTHEjaja.svg"
-            alt="Sofie Amalie logo"
-            class="logo"
-          />
-        </a>
+    
 
         <ul class="nav_links">
           <li><a href="index.html" aria-current="page">Forside</a></li>
@@ -40,7 +36,7 @@
           ☰
         </button>
 
-        <ul class="burger_menu" id="burger_menu" hidden>
+        <ul class="burger_menu" id="burger_menu"hidden>
           <li><a href="index.html">Forside</a></li>
           <li><a href="ommig.html">Om mig</a></li>
           <li><a href="01Grundlaeggendeweb.html">Grundlæggende web</a></li>
@@ -70,8 +66,12 @@
           <h1>SOFIE AMALIE</h1>
           <p>Portfolio · multimediedesign</p>
           <a class="cta" href="#Theme_Section">Se mit arbejde</a>
-          <p class="scroll_hint">Scroll ↓</p>
-        </div>
+
+          <div class="scroll_wrap">
+            <p class="scroll_hint">Scroll</p>
+            <p class="scroll_pil">↓</p>
+          </div>
+          
       </section>
       
 
@@ -86,7 +86,11 @@
               identitet. Jeg kan godt lide at arbejde struktureret og have fokus
               på brugeren.
             </p>
-
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis ratione unde veniam voluptatem, facilis molestias ad quod eaque libero minima, vitae nulla dignissimos voluptatum quia omnis eos vero nemo nostrum?
+            </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia magni excepturi facere voluptate error itaque ducimus voluptas velit ipsa, rem tempora perspiciatis delectus, earum voluptatibus adipisci unde ut alias quia!</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis ratione unde veniam voluptatem, facilis molestias ad quod eaque libero minima, vitae nulla dignissimos voluptatum quia omnis eos vero nemo nostrum?
+            </p>
             <a class="Button" href="ommig.html">Vil du vide mere?</a>
           </article>
 
@@ -97,6 +101,16 @@
             />
           </div>
         </div>
+        <div class="image_modal" id="imageModal" aria-hidden="true">
+          <div class="image_modal_content">
+            <button class="image_modal_close" aria-label="Luk billede">×</button>
+            <img src="../img/migibilen.webp" alt="Portræt af Sofie Amalie" />
+            <p class="image_modal_caption">
+              Dette billede af mig er genereret med hjælp af AI med udgangspunkt i billeder af mig, mit moodboard og styletile
+            </p>
+          </div>
+        </div>
+        
       </section>
 
       <section class="Theme_Section" id="Theme_Section">
@@ -143,8 +157,6 @@
               <p>Emergencysite / NVD</p>
               <a class="Button" href="03Brugergrænsefladeudvikling.html">Læs mere</a>
 
-
-              >
             </div>
           </article>
 
@@ -158,7 +170,7 @@
 
             <div class="card_content">
               <h3>Grundlæggende indhold</h3>
-              <p>Virksomhedssite / OSP</p>
+              <p>Virksomhedssite / OSFrisørartikler</p>
               <a class="Button" href="04Grundlæggendeindhold.html">Læs mere</a>
             </div>
           </article>
@@ -167,61 +179,76 @@
     </main>
 
     <footer class="Footer">
-      <div class="grid_2-1-2">
-        <div class="footer_logo">
-          <img src="../img/SA.logoTHEjaja.svg" alt="Sofie Amalie logo" class="logo_footer">
-        </div>
-
-          <h3>Sociale links</h3>
+      <div class="grid_2-1-2 footer_grid">
+    
+        <section class="footer_col footer_left" aria-label="Sociale links">
+          <a href="index.html#top" aria-label="Gå til forsiden">
+            <img
+              src="../img/SA.logoTHEjaja.svg"
+              alt="Sofie Amalie logo"
+              class="logo_footer"
+            />
+          </a>
+    
+          <p class="footer_label">Sociale Links</p>
+          <hr class="footer_rule" />
+    
           <ul class="social_list">
             <li>
-              <a href="mailto:soch005@stud.kea.dk" aria-label="Send mail til Sofie Amalie">
-                <img src="../img/email-svgrepo-com.svg" alt="Mail ikon">
+              <a href="mailto:soch0005@stud.ek.dk" aria-label="Send mail til Sofie Amalie">
+                <img src="../img/email-svgrepo-com.svg" alt="" />
               </a>
             </li>
-          
+    
             <li>
-              <a href="https://github.com/SofieAmalie03/SA_-portfolio1.semester" target="_blank" aria-label="Sofie Amalies GitHub">
-                <img src="../img/github.svg" alt="GitHub ikon">
+              <a href="https://github.com/SofieAmalie03/SA_-portfolio1.semester" target="_blank" rel="noopener" aria-label="Sofie Amalies GitHub">
+                <img src="../img/github.svg" alt="" />
               </a>
             </li>
-          
+    
             <li>
-              <a href="https://www.instagram.com/sofie_amalie.holst/" target="_blank" aria-label="Sofie Amalies Instagram">
-                <img src="../img/instagram.svg" alt="Instagram ikon">
+              <a href="https://www.instagram.com/sofie_amalie.holst/" target="_blank" rel="noopener" aria-label="Sofie Amalies Instagram">
+                <img src="../img/instagram.svg" alt="" />
               </a>
             </li>
-          
+    
             <li>
-              <a href="https://www.linkedin.com/in/sofie-amalie-holst-199241339/" target="_blank" aria-label="Sofie Amalies LinkedIn">
-                <img src="../img/linkedin-161-svgrepo-com.svg" alt="LinkedIn ikon">
+              <a href="https://www.linkedin.com/in/sofie-amalie-holst-199241339/" target="_blank" rel="noopener" aria-label="Sofie Amalies LinkedIn">
+                <img src="../img/linkedin-161-svgrepo-com.svg" alt="" />
               </a>
             </li>
           </ul>
-          
-        </div>
-
-        <div class="footer_col footer_nav">
-          <h3>Navigation</h3>
-          <ul>
+        </section>
+    
+       
+        <nav class="footer_col footer_nav" aria-label="Footer navigation">
+          <h3 class="footer_title">Navigation</h3>
+          <ul class="footer_list">
             <li><a href="index.html">Forside</a></li>
             <li><a href="ommig.html">Hvem er Sofie Amalie?</a></li>
             <li><a href="#Theme_Section">Temaer på 1. semester</a></li>
           </ul>
-        </div>
-
-        <div class="footer_col footer_contact">
-          <h3>Kontaktinformationer</h3>
-          <p>
-            Email:
-            <a href="mailto:socho005@stud.kea.dk">socho005@stud.kea.dk</a>
+        </nav>
+    
+      
+        <section class="footer_col footer_right" aria-label="Kontaktinformationer">
+          <h3 class="footer_name">SOFIE&nbsp;&nbsp;AMALIE</h3>
+          <p class="footer_sub">Portfolio · multimediedesign</p>
+    
+          <hr class="footer_rule" />
+    
+          <p class="footer_kontakt_title">Kontaktinformationer:</p>
+          <p class="footer_kontakt">
+            Email: <a href="mailto:soch0005@stud.ek.dk">soch0005@stud.ek.dk</a><br />
+            Tlf: 24998586
           </p>
-          <p>Tlf: 24 99 85 86</p>
-        </div>
+        </section>
+    
       </div>
-
+    
       <p class="copyright">© 2026 Sofie Amalie</p>
     </footer>
+    
 
     <script src="../js/index.js"></script>
   </body>
