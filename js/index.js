@@ -63,3 +63,61 @@ modal.addEventListener("click", (e) => {
     modal.setAttribute("aria-hidden", "true");
   }
 });
+
+/*jeg leger lige igen med lidt intro til mit site*/
+
+window.addEventListener("DOMContentLoaded", async () => {
+  const intro = document.getElementById("intro");
+  const introInner = document.getElementById("introInner");
+
+  document.body.classList.add("is_loading");
+
+  try {
+    const res = await fetch("./img/SA.logoTHEjaja.svg");
+    const svgText = await res.text();
+    introInner.innerHTML = svgText;
+
+    const svg = introInner.querySelector("svg");
+    if (!svg) throw new Error("SVG not found");
+
+    svg.removeAttribute("width");
+    svg.removeAttribute("height");
+
+    const shapes = svg.querySelectorAll(
+      "path, circle, line, polyline, polygon, rect, ellipse"
+    );
+
+    shapes.forEach((el) => {
+      el.classList.add("draw");
+      el.setAttribute("fill", "none");
+      el.setAttribute("stroke", "#231f20");
+      el.setAttribute("stroke-linecap", "round");
+      el.setAttribute("stroke-linejoin", "round");
+
+      let len = 0;
+      try {
+        len = el.getTotalLength();
+      } catch {
+        len = 2000;
+      }
+
+      el.style.setProperty("--len", `${Math.ceil(len)}px`);
+    });
+
+    setTimeout(() => {
+      intro.classList.add("is_out");
+      document.body.classList.remove("is_loading");
+      document.body.classList.add("is_loaded");
+
+      window.scrollTo({ top: 0, left: 0, behavior: "instant" });
+
+      setTimeout(() => {
+        intro.remove();
+      }, 450);
+    }, 1500);
+  } catch (e) {
+    intro.remove();
+    document.body.classList.remove("is_loading");
+    document.body.classList.add("is_loaded");
+  }
+});

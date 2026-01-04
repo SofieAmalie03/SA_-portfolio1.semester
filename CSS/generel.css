@@ -346,3 +346,65 @@ h3 {
 .footer_list a {
   white-space: nowrap;
 }
+
+/*jeg leger lige igen med lidt intro til mit site*/
+
+body.is_loading {
+  overflow: hidden;
+}
+
+body.is_loading main,
+body.is_loading header,
+body.is_loading footer {
+  opacity: 0;
+}
+
+body.is_loaded main,
+body.is_loaded header,
+body.is_loaded footer {
+  opacity: 1;
+  transition: opacity 400ms ease;
+}
+
+.intro {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: grid;
+  place-items: center;
+  background: #f7f2ea;
+  opacity: 1;
+  transition: opacity 400ms ease;
+}
+
+.intro.is_out {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.intro_inner {
+  width: min(58vmin, 420px);
+}
+
+.intro_inner svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.intro_inner .draw {
+  fill: none;
+  stroke: #231f20;
+  stroke-width: 6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: var(--len);
+  stroke-dashoffset: var(--len);
+  animation: draw 1600ms ease forwards;
+}
+
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
