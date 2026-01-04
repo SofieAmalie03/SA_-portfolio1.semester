@@ -67,13 +67,22 @@ modal.addEventListener("click", (e) => {
 /*jeg leger lige igen med lidt intro til mit site*/
 
 window.addEventListener("DOMContentLoaded", async () => {
+  const alreadyPlayed = sessionStorage.getItem("sa_intro_played") === "1";
   const intro = document.getElementById("intro");
   const introInner = document.getElementById("introInner");
 
+  if (alreadyPlayed || !intro || !introInner) {
+    intro?.remove();
+    document.body.classList.add("is_loaded");
+    window.scrollTo({ top: 0, left: 0, behavior: "instant" });
+    return;
+  }
+
+  sessionStorage.setItem("sa_intro_played", "1");
   document.body.classList.add("is_loading");
 
   try {
-    const res = await fetch("./img/SA.logoTHEjaja.svg");
+    const res = await fetch("img/SA.logoTHEjaja.svg");
     const svgText = await res.text();
     introInner.innerHTML = svgText;
 
@@ -117,7 +126,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     }, 1500);
   } catch (e) {
     intro.remove();
-    document.body.classList.remove("is_loading");
     document.body.classList.add("is_loaded");
+    window.scrollTo({ top: 0, left: 0, behavior: "instant" });
   }
 });

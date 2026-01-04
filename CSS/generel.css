@@ -372,7 +372,7 @@ body.is_loaded footer {
   z-index: 9999;
   display: grid;
   place-items: center;
-  background: #f7f2ea;
+  background: #fbf8f2;
   opacity: 1;
   transition: opacity 400ms ease;
 }
@@ -394,7 +394,7 @@ body.is_loaded footer {
 
 .intro_inner .draw {
   fill: none;
-  stroke: #231f20;
+  stroke: #231b1d;
   stroke-width: 6;
   stroke-linecap: round;
   stroke-linejoin: round;
