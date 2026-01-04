@@ -3,57 +3,65 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Grundlæggende Web | Sofie Amalie</title>
+    <title>Grundlæggende web | Sofie Amalie</title>
 
     <link rel="stylesheet" href="CSS/generel.css" />
     <link rel="stylesheet" href="CSS/01.css" />
+    <link rel="icon" href="img/favicon.svg?v=2" type="image/svg+xml" />
+    <link rel="icon" href="img/favicon.png?v=2" type="image/png" />
   </head>
 
   <body>
-    <header class="Menu">
-      <a class="logo_link" href="index.html" aria-label="Gå til forsiden">
-        <img
-          src="img/SA.logoTHEjaja.svg"
-          alt="Sofie Amalie logo"
-          class="logo"
-        />
-      </a>
+    <header class="Menu" id="top">
+      <nav class="nav" aria-label="Hovednavigation">
+        <a class="logo_link" href="index.html" aria-label="Gå til forsiden">
+          <img
+            src="img/SA.logoTHEjaja.svg"
+            alt="Sofie Amalie logo"
+            class="logo"
+          />
+        </a>
 
-      <div class="menu_right">
-        <p class="site_title">SOFIE AMALIE</p>
-        <p class="site_subtitle">Portfolio • multimediedesign</p>
-      </div>
+        <div class="nav_center" aria-label="Side titel">
+          <p class="site_title">SOFIE AMALIE</p>
+          <p class="site_subtitle">Portfolio • multimediedesign</p>
+          <h1 class="page_title">Grundlæggende web</h1>
+        </div>
 
-      <button
-        class="burger"
-        type="button"
-        aria-label="Åbn menu"
-        aria-expanded="false"
-        aria-controls="nav_menu"
-      >
-        ☰
-      </button>
+        <ul class="nav_links">
+          <li><a href="index.html">Forside</a></li>
+          <li><a href="ommig.html">Om mig</a></li>
+          <li><a href="index.html#Theme_Section">Temaer på 1. semester</a></li>
+        </ul>
 
-      <nav class="nav" id="nav_menu">
-        <ul class="nav_list">
-          <li><a class="nav_link" href="index.html">Forside</a></li>
+        <button
+          class="burger"
+          type="button"
+          aria-label="Åbn menu"
+          aria-expanded="false"
+          aria-controls="burger_menu"
+        >
+          ☰
+        </button>
+
+        <ul class="burger_menu" id="burger_menu" hidden>
+          <li><a href="index.html">Forside</a></li>
+          <li><a href="ommig.html">Om mig</a></li>
+          <li><a href="01Grundlaeggendeweb.html">Grundlæggende web</a></li>
+          <li><a href="02UXUI.html">Grundlæggende UX/UI</a></li>
           <li>
-            <a class="nav_link" href="ommig.html">Hvem er Sofie Amalie?</a>
+            <a href="03Brugergrænsefladeudvikling.html"
+              >Brugergænsefladeudvikling</a
+            >
           </li>
           <li>
-            <a class="nav_link" href="index.html#Theme_Section"
-              >Temaer på 1. semester</a
-            >
+            <a href="04Grundlaeggendeindhold.html">Grundlæggende indhold</a>
           </li>
         </ul>
       </nav>
     </header>
 
     <main>
-      <section class="Emne_text">
-        <h1>Grundlæggende Web</h1>
-      </section>
-
       <section class="Resultat_Section" aria-labelledby="resultat_heading">
         <div class="grid_1-1">
           <div class="Resultat_text">
@@ -211,9 +219,7 @@
           <ul class="footer_list">
             <li><a href="index.html">Forside</a></li>
             <li><a href="ommig.html">Hvem er Sofie Amalie?</a></li>
-            <li>
-              <a href="index.html#Theme_Section">Temaer på 1. semester</a>
-            </li>
+            <li><a href="#Theme_Section">Temaer på 1. semester</a></li>
           </ul>
         </nav>
 
