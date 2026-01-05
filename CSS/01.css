@@ -155,18 +155,78 @@
   margin: 12px auto 14px;
 }
 
-@media (max-width: 900px) {
-  .logo {
-    width: 92px;
-  }
+/* her er hvor mine læs mere knapper i cardsene på temesiderne dropper down*/
 
-  .nav {
-    padding: 18px 0;
-  }
+.Resultat_text,
+.Løsning_text,
+.Proces_text,
+.Læring_text {
+  padding: 0;
+}
 
-  .page_title {
-    font-size: clamp(1.55rem, 5.6vw, 2.25rem);
-  }
+.Resultat_text p,
+.Løsning_text p,
+.Proces_text p,
+.Læring_text p {
+  color: var(--muted);
+}
+
+.Resultat_text .Button,
+.Løsning_text .Button,
+.Proces_text .Button,
+.Læring_text .Button {
+  margin-top: 6px;
+}
+
+.readmore {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.readmore > summary.Button {
+  order: 2;
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+  align-self: flex-start;
+}
+
+.readmore > summary.Button::-webkit-details-marker {
+  display: none;
+}
+
+.readmore_inner {
+  order: 1;
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.3s ease;
+}
+
+.readmore[open] .readmore_inner {
+  grid-template-rows: 1fr;
+}
+
+.readmore_content {
+  overflow: hidden;
+  padding-top: 12px;
+}
+
+.readmore_content p:last-child {
+  margin-bottom: 0;
+}
+
+.readmore .rm_open {
+  display: none;
+}
+
+.readmore[open] .rm_open {
+  display: inline;
+}
+
+.readmore[open] .rm_closed {
+  display: none;
 }
 
 main {
@@ -198,31 +258,6 @@ main {
   align-items: center;
 }
 
-.Resultat_text,
-.Løsning_text,
-.Proces_text,
-.Læring_text {
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 14px;
-  padding: clamp(18px, 2.4vw, 26px);
-  box-shadow: var(--shadow-soft);
-}
-
-.Resultat_text p,
-.Løsning_text p,
-.Proces_text p,
-.Læring_text p {
-  color: var(--muted);
-}
-
-.Resultat_text .Button,
-.Løsning_text .Button,
-.Proces_text .Button,
-.Læring_text .Button {
-  margin-top: 6px;
-}
-
 .Resultat_media,
 .Løsning_media,
 .Proces_media,
@@ -247,5 +282,19 @@ main {
   .Proces_text,
   .Læring_text {
     padding: 28px;
+  }
+}
+
+@media (max-width: 900px) {
+  .logo {
+    width: 92px;
+  }
+
+  .nav {
+    padding: 18px 0;
+  }
+
+  .page_title {
+    font-size: clamp(1.55rem, 5.6vw, 2.25rem);
   }
 }
