@@ -5,8 +5,27 @@
   background: var(--bg);
   border-bottom: 1px solid var(--line);
   padding-inline: var(--page-gutter);
+  transition: opacity 260ms ease, transform 260ms ease;
+  will-change: opacity, transform;
 }
 
+.Menu.is_fading {
+  opacity: 0;
+  transform: translateY(-10px);
+  pointer-events: none;
+}
+
+.Menu.is_unstuck {
+  position: static;
+}
+
+.menu_backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 110;
+  background: rgba(0, 0, 0, 0.18);
+}
 .nav {
   position: relative;
   width: 100%;
@@ -55,10 +74,11 @@
 
 .page_title {
   margin: 0;
-  font-size: clamp(2.1rem, 3.6vw, 3.2rem);
+  font-size: clamp(1.9rem, 3.2vw, 3.2rem);
   font-weight: 700;
   letter-spacing: -0.02em;
   color: var(--wine);
+  white-space: nowrap;
 }
 
 .nav_links {
@@ -116,16 +136,23 @@
   background: rgba(210, 106, 58, 0.12);
 }
 
-.menu_backdrop {
-  display: none;
-  position: fixed;
-  inset: 0;
-  z-index: 110;
-  background: rgba(0, 0, 0, 0.18);
-}
-
 .nav.is_open + .menu_backdrop {
   display: block;
+}
+
+.media_with_button {
+  display: grid;
+  grid-template-rows: 1fr auto;
+}
+
+.media_with_button img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.figma_button {
+  margin: 12px auto 14px;
 }
 
 @media (max-width: 900px) {
