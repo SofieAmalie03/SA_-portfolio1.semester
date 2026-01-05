@@ -65,3 +65,24 @@ if (menu && resultat) {
 
   observer.observe(resultat);
 }
+
+/*klik ved siden af udenfor dropdown så lukker den automatisk og hvis jeg så åbner en dropdown, så lukker den andre boom!!*/
+
+const readmores = Array.from(document.querySelectorAll(".readmore"));
+
+function closeAllReadmores(except) {
+  readmores.forEach((d) => {
+    if (d !== except) d.removeAttribute("open");
+  });
+}
+
+readmores.forEach((d) => {
+  d.addEventListener("toggle", () => {
+    if (d.open) closeAllReadmores(d);
+  });
+});
+
+document.addEventListener("click", (e) => {
+  const insideAny = readmores.some((d) => d.contains(e.target));
+  if (!insideAny) closeAllReadmores();
+});
